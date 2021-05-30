@@ -1,1 +1,13 @@
-Hello Manku...
+Hello CoolBoy...git_command
+
+>> mkdir "fileName"(Change dir drag & drop)
+>> cd "fileName"
+>> git init
+>> git status
+>> ls(showing all list)
+>> git add "fileName"
+>> git commit -m "write down comment"
+>> git config --global user.email "you@example.com"(If required)
+>> git config --global user.name "gitUserName"(If required)
+>> git remote add origin "Git_URL"
+>> git push origin master
